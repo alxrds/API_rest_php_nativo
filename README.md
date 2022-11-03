@@ -1,4 +1,4 @@
-# API REST
+# API REST em PHP
 
 API REST desenvolvida à fim de aprender conceitos relacionadas à webservice na linguagem PHP.
 
@@ -9,12 +9,9 @@ Utilização de conceitos como Repository, Service, Validator e Util.
 ## Utilização
 
 Alterar o arquivo bootstrap.php na pasta raíz, para configuração dos dados do ambiente.
-Criar o banco webservice e importar o script script_banco.sql
-
 
 ## Características e tecnologias
 
-* PHP 7.4.x
 * Modelo REST
 * Orientação à Objetos(POO)
 * Clean Code
@@ -45,3 +42,4 @@ Criar o banco webservice e importar o script script_banco.sql
 * **PUT**
 
 * /usuarios/atualizar/{id}
+
